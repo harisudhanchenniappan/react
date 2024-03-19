@@ -1,0 +1,18 @@
+#header{
+    width: 100%;
+    background-color:white;
+}
+#header2{
+    color: white;
+    background-color: rgb(33,37,41) ;
+    display:flex ;
+    text-align: center;
+    padding: 150px;
+}
+.card-body{
+    text-align: center;
+}
+#body{
+    display: flex;
+    flex-direction: row;
+}

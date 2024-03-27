@@ -1,0 +1,33 @@
+#body{
+    display: flex;
+    flex-direction: row;  
+    flex-wrap: wrap;  
+    
+}
+.card-title{
+    justify-content: space-between;    
+    margin: 15px;
+}
+#count{
+    color: orange;
+    padding: 15px;
+    width: 75px;
+    height: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+   
+}
+#cartBox{
+    border: 2px solid black;
+    width: 200px;
+    margin-top: 52px;
+}
+#cartTitle{
+    border-bottom: 1px solid black;
+}
+#cartTotal{
+    border-top: 1px solid red;
+}
+.card-body{
+    text-align: center;
+}
